@@ -27,8 +27,8 @@ import frc.robot.common.HolonomicDriveSignal;
 
 
 public class DrivetrainSubsystem implements Subsystem, UpdateManager.Updatable {
-    public static final double TRACKWIDTH = 1.0;
-    public static final double WHEELBASE = 1.0;
+    public static final double TRACKWIDTH = 20.0;
+    public static final double WHEELBASE = 3.5;
     public static final double STEER_GEAR_RATIO = 12.8;
     public static final double DRIVE_GEAR_RATIO = 6.86;
 
