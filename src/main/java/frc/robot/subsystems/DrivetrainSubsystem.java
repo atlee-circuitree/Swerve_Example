@@ -16,6 +16,7 @@ import frc.robot.Constants;
 import frc.robot.common.Gyroscope;
 import frc.robot.common.ChassisVelocity;
 import frc.robot.common.SwerveKinematics;
+import frc.robot.common.SwerveModule;
 import frc.robot.common.SwerveOdometry;
 import frc.robot.common.RigidTransform2;
 import frc.robot.common.Rotation2;
